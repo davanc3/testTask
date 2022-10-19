@@ -1,4 +1,5 @@
 <?php
+// файл подключается в init.php
 use Bitrix\Main\EventManager;
 use CIBlockElement;
 use DateTime;
